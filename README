@@ -1,15 +1,11 @@
-At http://piotrnowicki.com/2011/03/jee-6-scwcd-mock-questions/ you can find 
-"Oracle Certified Expert JSP and Servlets Mock Exam" I've authored. I've decided to 
-add to some of these questions, a source code examples of the asking behaviour. 
+At http://piotrnowicki.com/2011/03/jee-6-scwcd-mock-questions/ you can find "Oracle Certified Expert JSP and Servlets 
+Mock Exam" I've authored. I've decided to add source code examples to some of these questions. 
 
-I hope it'll help you to understand and test by yourself how a Servlet container 
-will react in particular situations.
-If you find some error, would like to change the example or introduce another question 
-with some interesting feature, feel free to fork it and I'll be happy to add it to the 
-main exam.
+I hope it'll help you to understand and test by yourself how a Servlet container will react in particular situations.
+If you find some error, would like to change the example or introduce another question with some interesting feature, 
+feel free to fork it and I'll be happy to add it to the main exam.
 
-Some of the code examples come with *.class files of the source files. It's because 
-I assumed that some of you would prefer just to put the code in your servlet container
-and watch it in action right away.
+Some of the code examples come with *.class files of the source files. It's because I assumed that some of you would 
+prefer just to put the code in your servlet container and watch it in action right away.
 
 Have fun and good luck :-)
